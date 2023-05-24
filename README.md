@@ -1,4 +1,6 @@
 ### Hi there 👋
+welcome come to janfa's github!
+my ![Visitor Count](https://profile-counter.glitch.me/jianfareal/count.svg) visitors
 
 <!--
 **jianfareal/jianfareal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
