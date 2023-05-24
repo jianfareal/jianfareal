@@ -1,7 +1,7 @@
 ### Hi there 👋
 welcome come to janfa's github!
 my ![Visitor Count](https://profile-counter.glitch.me/jianfareal/count.svg) visitors
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianfareal)](https://github.com/Christmas/github-readme-stats)
 <!--
 **jianfareal/jianfareal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
